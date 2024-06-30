@@ -13,7 +13,6 @@ For the time being, it will contain some translation of everything from the Goog
 It will feature the StarVox mod list, mod load order, some tips and tricks about mod configuration, and spreadsheets from the Club.
 We hope it will help new users navigate the SPT space, as well as returning users in search of references and info.
 
-# Links
 [StarVox on YouTube](https://www.youtube.com/channel/UC_NQ0kJpwwjjd708z5YsYeQ)
 
 [The Club StarVox Discord Server](https://discord.gg/9GNEtnK2Yj)

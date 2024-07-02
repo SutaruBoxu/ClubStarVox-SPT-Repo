@@ -1,0 +1,434 @@
+[
+  {
+    "Name": "live-like",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "live-like-alt",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "live-like-alt-2",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "quietraids",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "boss-mania",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "crazyraids",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "impossibleraids",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "morescavs",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "morepmcs",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "no-starting-pmcs",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "starting-pmcs-only-live-like",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "starting-pmcs-only-live-like-alt",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "starting-pmcs-only-morescavs",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "starting-pmcs-only-quietraids",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "starting-pmcs-only-late-scavs",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  },
+  {
+    "Name": "scav-raids",
+  	"PMCBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    },
+    "SCAVBotLimitPresets": {
+      "FactoryBotLimit": 5,
+      "InterchangeBotLimit": 5,
+      "LaboratoryBotLimit": 5,
+      "LighthouseBotLimit": 5,
+      "ReserveBotLimit": 5,
+      "ShorelineBotLimit": 5,
+      "WoodsBotLimit": 5,
+      "CustomsBotLimit": 5,
+      "TarkovStreetsBotLimit": 5,
+      "GroundZeroBotLimit": 5
+    }
+  }
+]

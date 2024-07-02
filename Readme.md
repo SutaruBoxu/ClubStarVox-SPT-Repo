@@ -79,6 +79,7 @@ In particular, I have sped up the process of checking the chamber, checking maga
 I've also enabled the new High Ready spring animation and disabled the Idle Arm Stamina Drain to prevent frequently spending the arms.  
 Lastly, I often revisit the Low Ready and High Ready stance position settings, using the sliders to move the arms and how the hold weapons.  
 It's rather difficult to do, the sliders have large steps and cause the arms to move entirely too far on every axis, necessitating verbose input.  
+##
 
 ### SWAG+Donuts
 [The SWAG+Donuts mod](https://hub.sp-tarkov.com/files/file/878-swag-donuts-dynamic-spawn-waves-and-custom-spawn-points/) is an overhaul for the bot spawn system, introducing numerous scenarios for waves in raids.  
@@ -118,6 +119,9 @@ This reduces the spawn limit for both PMC and Scav bots to a total of five each 
 Even without changing SWAG configurations, these numbers seem to provide both optimial performance and immersion in most raids.  
 With Questing Bots and Looting Bots running, these wave numbers provide activity both near and far for the player in our testing.  
 
+I've inluded a preconfigured `ScenarioConfig.json` as described above in this repository.  
+##
+
 ### SAIN 2.0
 [The SAIN mod](https://hub.sp-tarkov.com/files/file/1062-sain-2-0-solarint-s-ai-modifications-full-ai-combat-system-replacement/) is an overhaul for the bot behavior system, hugely expanding their capabilities and potential for customization.  
 
@@ -136,6 +140,7 @@ Reducing the activity of bots, through reducing parameters for sighting and enga
 With sliders for "Aggression", "Vision Multipliers" of various kinds, and even "Reaction Time" for certain circumstances like CQB,  
 it's easy to make the bots simply carry otu fewer checks and actions in raids.  
 This is one of the primary methods of controlling SPT performance.  
+##
 
 ### Raid Overhaul
 [The Raid Overhaul mod](https://hub.sp-tarkov.com/files/file/1673-raid-overhaul/) adds an array of random events and other changes designed to make raids more dynamic and interesting.  
@@ -152,6 +157,7 @@ The same goes for the mod's "Local Time" feature for raids, I've sabled it to co
 
 It should be noted that the developer has released a standalone version of "Raid Overhaul" with reduced features for a lighter experience,  
 or to make it easier on those who are likely to disable many of the mod's core features anyway.  
+##
 
 ### MeowShader
 [The MeowShader mod](https://hub.sp-tarkov.com/files/file/1432-meowshader-a-stylishly-beautiful-reshade-preset/) brings ReShade into Tarkov with a very intuitive in-game GUI.  
@@ -164,4 +170,5 @@ By default, the "Home" key opens the interface and the "End" key toggles the mod
 The GUI consitst of a list of plugins and their controls, once enabled, at the bottom of the window.  
 
 Many ReShade plugins are heavily graphics-intensive and will require more PC resources than vanilla EFT or SPT.  
+I've included the base configuration for MeowShader presets that I often use in this repository, `StarVox Sample Preset for MeowShader.ini`.  
 

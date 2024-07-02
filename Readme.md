@@ -1,9 +1,7 @@
 # The Club StarVox SPT Guides
-This will be a repository for the practices and observations of Club StarVox in SPT.
-
-The project was started by StarVox for YouTube, grew on Discord, and gained a handful of contributors.  
-Information and files will have been provided by StarVox and that handful of Club StarVox peers.  
-In particular, user NoFear1979 has carried out numerous test runs with co-developed configurations and shared the data in a spreadsheet.
+This is a collection of tips and configurations for SPT from the Club StarVox community Discord server.  
+Refer to the server with any questions or suggestions regarding this repository, to StarVox or NoFear1979 in particular.  
+Most, if not all, of the items here are referenced or covered in the SPT Show on YouTube for demonstration.
 
 ## Club StarVox Links
 

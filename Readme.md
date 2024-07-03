@@ -21,13 +21,11 @@ Most, if not all, of the items here are referenced or covered in the SPT Show on
 Many SPT mods won't require you to assign them a specific location in the game's Load Order, but several must be place well to work properly.  
 Always read a mod's description on the Filebase or GitHub, as it will often clarify a Load Order requirement.  
 Most will state that the mod needs to load "last" in the order to function properly, meaning it must hold certain changes against other mods.  
-When inherently conflicting mods are patched to work together, they need to be loaded in the correct order to function.  
-
-[StarVox's 3.8.3 Mod Load Order](https://lh6.googleusercontent.com/MrmsJVWNACwnjiDnddRViZsoo0PuNU9fbBh18iGYa8DS08BjPLjKRldGwUVw3EBrA6XdZIW1v3WJGyTUzzy9uivAOkfeGaNNWZap8u7FZrQP047el56gdljqfsStOGlFVg=w1280)  
+When inherently conflicting mods are patched to work together, they need to be loaded in the correct order to function.    
 
 <details>
 
-<summary>Load Order List</summary>
+<summary>StarVox's Mod Load Order</summary>
   
 1. Modular Attachments
 2. MFAC Shop

@@ -1,4 +1,4 @@
-# The Club StarVox SPT Guides
+# The Club StarVox SPT Repo
 This is a collection of tips and configurations for SPT from the Club StarVox community Discord server.  
 Refer to the server with any questions or suggestions regarding this repository.  
 Most, if not all, of the items here are referenced or covered in the SPT Show on YouTube for demonstration.

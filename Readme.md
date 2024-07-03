@@ -136,7 +136,7 @@ It should also be noted that I still observed what seemed like problems even wit
 Concerning performance, SAIN uses a lot of PC resources to run added custom commands for the bots.  
 Reducing the activity of bots, through reducing parameters for sighting and engagements, reduces that strain on performance.  
 With sliders for "Aggression", "Vision Multipliers" of various kinds, and even "Reaction Time" for certain circumstances like CQB,  
-it's easy to make the bots simply carry otu fewer checks and actions in raids.  
+it's easy to make the bots simply carry out fewer checks and actions in raids.  
 This is one of the primary methods of controlling SPT performance.  
 ##
 

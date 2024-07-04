@@ -170,3 +170,8 @@ The GUI consitst of a list of plugins and their controls, once enabled, at the b
 Many ReShade plugins are heavily graphics-intensive and will require more PC resources than vanilla EFT or SPT.  
 I've included the base configuration for MeowShader presets that I often use in this repository, `StarVox Sample Preset for MeowShader.ini`.  
 
+# SPT Performance  
+
+As of July 3rd, I've made some drastic changes to restore performance lost to new configurations. My mod list has changed, in-game graphics, and more.  
+I'll be listing those changes in this section after collecting all the relevant information.  
+I will also describe the different installations and profiles that I use for my various needs, as they have become plentiful and robust. Stay tuned.

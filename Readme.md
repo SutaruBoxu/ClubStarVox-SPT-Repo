@@ -2,13 +2,13 @@
 
 ### Club StarVox Links  
 
-[StarVox on YouTube](https://www.youtube.com/channel/UC_NQ0kJpwwjjd708z5YsYeQ) - Main SPT content YouTube channel 
+[StarVox on YouTube](https://www.youtube.com/channel/UC_NQ0kJpwwjjd708z5YsYeQ) - SPT and more on YouTube 
 
 [StarVox's SPT Quick Start Guide](https://shore-emery-aa6.notion.site/SPT-AKI-Starter-Guide-d3c17ba5bcd94aae88ec382f0c3c1d30) - How to get started with SPT
 
-[StarVox's SPT Mod 3.9.8 Mod Guide](https://starvox.notion.site/StarVox-s-SPT-3-9-8-Mod-Guide-v3-1-0-e829c138f12a42d480989fb5225046ee?pvs=4) - My current mod list & guide
+[StarVox's SPT Mod 3.9.8 Mod Guide](https://starvox.notion.site/StarVox-s-SPT-3-9-8-Mod-Guide-v3-1-0-e829c138f12a42d480989fb5225046ee?pvs=4) - My SPT 3.9.8 mod list & guide
 
-[Club StarVox SubReddit](https://www.reddit.com/r/StarVox/) - A Reddit community for Club StarVox SPT content
+[Club StarVox SubReddit](https://www.reddit.com/r/StarVox/) - A quiet Reddit community for Club StarVox 
 
 [Club StarVox SPT Website](https://sites.google.com/view/club-starvox-spt/home) - A main page for access to Club StarVox SPT content
 
